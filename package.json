@@ -12,14 +12,15 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "joi": "^17.13.3",
     "lodash": "^4.17.21",
     "mongoose": "^8.9.5",
-    "multer": "^2.0.2",
-    "csvtojson": "^2.0.10"
+    "multer": "^2.0.2"
   },
   "description": "",
   "engines": {
